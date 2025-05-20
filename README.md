@@ -127,3 +127,15 @@ This will stop and remove the running JMusicBot container and delete the Docker 
 ## Credits
 
 Thanks to [SeVile/MusicBot](https://github.com/SeVile/MusicBot) for the fork and to Jagrosh for the original JMusicBot project.
+
+
+## Customise
+check the owners website for more details . You just need to 1st stop the bot using  
+```bash
+docker stop jmusicbot
+```
+and then edit your config.txt file and lastly start the bot back again 
+```bash
+docker start jmusicbot
+
+```
