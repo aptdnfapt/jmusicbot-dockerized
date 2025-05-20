@@ -130,7 +130,7 @@ Thanks to [SeVile/MusicBot](https://github.com/SeVile/MusicBot) for the fork and
 
 
 ## Customise
-check the owners website for more details . You just need to 1st stop the bot using  
+check the owners [website](https://jmusicbot.com/) for more details . You just need to 1st stop the bot using  
 ```bash
 docker stop jmusicbot
 ```
