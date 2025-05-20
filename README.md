@@ -19,7 +19,7 @@ Follow these steps to get your JMusicBot instance up and running:
 ### 2. Clone the Repository
 Open your terminal and clone this repository. 
 ```bash
-git clone 
+git clone https://github.com/aptdnfapt/jmusicbot-dockerized.git
 ```
 then go inside the jmusicbot folder/dir and install 
 ```bash
