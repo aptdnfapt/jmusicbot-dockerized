@@ -123,3 +123,7 @@ To completely remove the Dockerized JMusicBot and its image from your system (Li
    Note: Replace `0.4.3.8` with the actual version of the image you want to remove if it's different.
 
 This will stop and remove the running JMusicBot container and delete the Docker image from your system. You can also remove the `jmusicbot-dockerized` directory if you cloned the repository.
+
+## Credits
+
+Thanks to [SeVile/MusicBot](https://github.com/SeVile/MusicBot) for the fork and to Jagrosh for the original JMusicBot project.
