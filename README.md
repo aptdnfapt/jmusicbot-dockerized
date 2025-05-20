@@ -53,7 +53,7 @@ docker pull ghcr.io/aptdnfapt/jmusicbot-image:0.4.3.8
 docker run -d \
   --name jmusicbot \
   --restart always \
-  -v ${PWD}:/app \
+  -v $PWD:/app \
   ghcr.io/aptdnfapt/jmusicbot-image:0.4.3.8
 ```
 Note: The `${PWD}` variable represents the current working directory, which is mapped to `/app` inside the container.
